@@ -1,4 +1,4 @@
-package com.dsjpooe.atividades.estcondicionais;
+package com.dsjpooe.estcondicionais;
 
 import java.util.Locale;
 import java.util.Scanner;
